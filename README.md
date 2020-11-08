@@ -25,7 +25,7 @@
 - WLAN / Bluetooth
 - Airdrop / Handoff
 - Sleep
-- Hibernation ( with hibernatemode 25)
+- Hibernation (with hibernatemode 25)
 
 
 
