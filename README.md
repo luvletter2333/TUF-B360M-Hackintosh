@@ -39,6 +39,7 @@
    1. ``OC/ACPI/SSDT-RX5500XT-V10.aml``
    2. ``OC/Kexts/DAGPM.kext``
    3. ``config.plist/ACPI/Patch/0``
+   4. **If you have other graphic card, please remove them!!**
 
 4. **Platform Information has been removed. Please fill it by yourself.**
 
